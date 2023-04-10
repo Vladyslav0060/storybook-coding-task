@@ -1,6 +1,6 @@
 ## How to start
 
-- run `npm i --force` to install packeges. `--force` is needed, because it was deprecated recently.
+- run `npm i --force` to install packeges. `--force` is needed, because `@storybook/addon-knobs` was deprecated recently.
 - run `npm run storybook` to run storybook, or `npm run dev` to run an application
 
 ## Tech stack
